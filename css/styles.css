@@ -410,7 +410,11 @@ body {
   color: var(--section-five-a);
 }
 
-.section-five-a:hover,
+.section-five-a:hover {
+  border-color: #404bbf;
+  color: #404bbf;
+}
+
 .section-five-a:focus {
   border-color: #404bbf;
   color: #404bbf;
