@@ -424,6 +424,11 @@ body {
   fill: currentColor;
 }
 
+.section-five-svg:focus {
+  border-color: #404bbf;
+  color: #404bbf;
+}
+
 /*Portfolio */
 
 .section-portfolio {
